@@ -1,6 +1,6 @@
-#🤖 Introducción a la Robótica
+# 🤖 Introducción a la Robótica
 
-##1. ¿Qué es un robot?
+## 1. ¿Qué es un robot?
 
 Un robot es una máquina capaz de percibir su entorno, procesar información y actuar en consecuencia para cumplir una tarea.
 
@@ -15,7 +15,7 @@ Un robot es una máquina capaz de percibir su entorno, procesar información y a
 • Robots de exploración (espaciales o submarinos) 
 • Robots educativos y de competición 
 
-##2. Robots de competición
+## 2. Robots de competición
 En el ámbito educativo, la robótica suele trabajarse a través de competencias, donde los robots deben cumplir objetivos específicos.
 ⚔️ Robot Sumo
     • Dos robots luchan dentro de un ring 
@@ -34,7 +34,7 @@ En el ámbito educativo, la robótica suele trabajarse a través de competencias
 - Mini desafíos de precisión 
 - Robots autónomos o controlados por radio (RC)
 - 
-##3. Diagrama de bloques de un robot
+## 3. Diagrama de bloques de un robot
 
 Un robot se puede representar mediante el siguiente esquema:
 
@@ -54,7 +54,7 @@ Diagráma de bloques de un robot de carreras:
 
 
 
-##4. Partes principales de un robot
+## 4. Partes principales de un robot
 🔍 Sensores (Entrada)
 Permiten que el robot "perciba"
 Ejemplos:
@@ -87,7 +87,7 @@ Incluye:
     • Chasis 
     • Ruedas 
     • Soportes 
-##5. Áreas que intervienen en la robótica
+## 5. Áreas que intervienen en la robótica
 La robótica es una disciplina multidisciplinaria, combina varias áreas:
 
 ⚡ Electrónica
@@ -106,13 +106,13 @@ Lógica de control
 Toma de decisiones 
 Automatización 
 Lenguajes (Arduino, C/C++, Python) 
-##6. Ejemplo de funcionamiento de un robot
+## 6. Ejemplo de funcionamiento de un robot
 👉 Robot seguidor de línea:
     1. Sensores detectan la línea 
     2. Controlador interpreta la posición 
     3. Ajusta la velocidad de los motores 
     4. El robot corrige su trayectoria 
-##7. Actividad sugerida (10–15 min)
+## 7. Actividad sugerida (10–15 min)
 💡 Pregunta disparadora:
     • ¿Qué diferencia hay entre sensor y actuador? 
     • ¿Qué hace el controlador? 
@@ -123,7 +123,7 @@ Lenguajes (Arduino, C/C++, Python)
         ◦ Controlador 
         ◦ Estructura 
         ◦ Limites físicos indicados en los reglamentos (dimensiones, peso).
-##8. 📌 Ideas clave:
+## 8. 📌 Ideas clave:
     • Un robot = sensores + control + acción 
     • La robótica integra varias disciplinas 
     • Las competencias son una forma práctica de aprender 
