@@ -5,15 +5,15 @@
 Un robot es una máquina capaz de percibir su entorno, procesar información y actuar en consecuencia para cumplir una tarea.
 
 👉 En términos simples:
-• Recibe información (sensores) 
-• Decide qué hacer (controlador) 
-• Actúa (motores o actuadores) 
+- Recibe información (sensores)
+- Decide qué hacer (controlador)
+- Actúa (motores o actuadores) 
 
 📌 Ejemplos:
-• Robots industriales (líneas de producción) 
-• Robots domésticos (aspiradoras automáticas) 
-• Robots de exploración (espaciales o submarinos) 
-• Robots educativos y de competición 
+- Robots industriales (líneas de producción)
+- Robots domésticos (aspiradoras automáticas)
+- Robots de exploración (espaciales o submarinos)
+- Robots educativos y de competición 
 
 ## 2. Robots de competición
 En el ámbito educativo, la robótica suele trabajarse a través de competencias, donde los robots deben cumplir objetivos específicos.
