@@ -90,22 +90,22 @@ Incluye:
 ## 5. Áreas que intervienen en la robótica
 La robótica es una disciplina multidisciplinaria, combina varias áreas:
 
-⚡ Electrónica
-⚙️ Mecánica
-💻 Programación
-Diseño de circuitos 
-Sensores y actuadores 
-Drivers de motores 
-Alimentación eléctrica 
-Diseño del chasis 
-Transmisión de movimiento 
-Reducción de velocidad (engranajes) 
-Materiales y resistencia 
-Diseño e impresión 3D: CAD, prototipado rápido, fabricación de piezas personalizadas
-Lógica de control 
-Toma de decisiones 
-Automatización 
-Lenguajes (Arduino, C/C++, Python) 
+| ⚡ Electrónica | ⚙️ Mecánica | 💻 Programación |
+|----------------|-------------|-----------------|
+| Diseño de circuitos | Diseño del chasis | Lógica de control |
+| Sensores y actuadores | Transmisión de movimiento | Toma de decisiones |
+| Drivers de motores | Reducción de velocidad (engranajes) | Automatización |
+| Alimentación eléctrica |Materiales y resistencia  | Lenguajes (Arduino, C/C++, Python) |
+|  | Diseño e impresión 3D: CAD, prototipado rápido, fabricación de piezas personalizadas |  |
+
+
+
+
+
+ 
+
+
+
 ## 6. Ejemplo de funcionamiento de un robot
 👉 Robot seguidor de línea:
     1. Sensores detectan la línea 
