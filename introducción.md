@@ -30,22 +30,29 @@ En el ámbito educativo, la robótica suele trabajarse a través de competencias
     • Deben detectar la pelota y el arco 
     • Requiere: coordinación y control 
 🧠 Otros tipos
-    • Laberinto (resolver caminos) 
-    • Mini desafíos de precisión 
-    • Robots autónomos o controlados por radio (RC) 
+- Laberinto (resolver caminos)
+- Mini desafíos de precisión 
+- Robots autónomos o controlados por radio (RC)
+- 
 ##3. Diagrama de bloques de un robot
+
 Un robot se puede representar mediante el siguiente esquema:
 
     [Sensores] → [Controlador] → [Actuadores]
          ↑                           ↓
          └──── Retroalimentación ────┘
+         
 Esto responde al concepto de sistema automático con control.
-Explicación:
-    • Sensores: Detectan información del entorno 
-    • Controlador: Procesa la información (decide) 
-    • Actuadores: Ejecutan la acción 
 
+Explicación:
+- Sensores: Detectan información del entorno
+- Controlador: Procesa la información (decide)
+- Actuadores: Ejecutan la acción 
+    
 Diagráma de bloques de un robot de carreras:
+<img width="985" height="786" alt="imagen" src="https://github.com/user-attachments/assets/d2ac9947-a93e-4da8-8704-b2ed6d11c4ea" />
+
+
 
 ##4. Partes principales de un robot
 🔍 Sensores (Entrada)
