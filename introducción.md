@@ -96,7 +96,8 @@ La robótica es una disciplina multidisciplinaria, combina varias áreas:
 | Sensores y actuadores | Transmisión de movimiento | Toma de decisiones |
 | Drivers de motores | Reducción de velocidad (engranajes) | Automatización |
 | Alimentación eléctrica |Materiales y resistencia  | Lenguajes (Arduino, C/C++, Python) |
-|  | Diseño e impresión 3D: CAD, prototipado rápido, fabricación de piezas personalizadas |  |
+|  | Diseño e impresión 3D: CAD, prototipado rápido, |  |
+|  | fabricación de piezas personalizadas |  |
 
 
 
