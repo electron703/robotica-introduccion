@@ -55,32 +55,33 @@ Diagráma de bloques de un robot de carreras:
 
 
 ## 4. Partes principales de un robot
+
 🔍 Sensores (Entrada)
 Permiten que el robot "perciba"
 Ejemplos:
 - Sensores infrarrojos (IR)
 - Sensores ultrasónicos
 - Sensores de línea
-- Encoders (posición/velocidad) 
+- Encoders (posición/velocidad)
 ⚙️ Actuadores (Salida)
 Permiten que el robot "se mueva o actúe"
 Ejemplos:
 - Motores DC
 - Servomotores
-- Motores paso a paso 
+- Motores paso a paso
 🧠 Controlador
 Es el "cerebro" del robot
 Ejemplos:
 - Microcontroladores (Arduino, ESP32)
-- Placas de desarrollo 
+- Placas de desarrollo
 Funciones:
 - Leer sensores
 - Ejecutar programas
-- Controlar motores 
+- Controlar motores
 🔋 Fuente de energía
 Alimenta todo el sistema
 Ejemplos:
-- Baterías (LiPo, 18650, etc.) 
+- Baterías (LiPo, 18650, etc.)
 🧱 Estructura mecánica
 Es el "cuerpo" del robot
 Incluye:
@@ -101,10 +102,10 @@ La robótica es una disciplina multidisciplinaria, combina varias áreas:
 
 ## 6. Ejemplo de funcionamiento de un robot
 👉 Robot seguidor de línea:
-    1. Sensores detectan la línea 
-    2. Controlador interpreta la posición 
-    3. Ajusta la velocidad de los motores 
-    4. El robot corrige su trayectoria 
+1. Sensores detectan la línea 
+2. Controlador interpreta la posición 
+3. Ajusta la velocidad de los motores 
+4. El robot corrige su trayectoria 
     
 ## 7. Actividad sugerida (10–15 min)
 💡 Pregunta disparadora:
