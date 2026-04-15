@@ -4,12 +4,12 @@
 
 Un robot es una máquina capaz de percibir su entorno, procesar información y actuar en consecuencia para cumplir una tarea.
 
-👉 En términos simples:
+👉 **En términos simples:**
 - Recibe información (sensores)
 - Decide qué hacer (controlador)
 - Actúa (motores o actuadores) 
 
-📌 Ejemplos:
+📌 **Ejemplos:**
 - Robots industriales (líneas de producción)
 - Robots domésticos (aspiradoras automáticas)
 - Robots de exploración (espaciales o submarinos)
@@ -90,6 +90,7 @@ Alimenta todo el sistema. Ejemplos:
 - Baterías (LiPo, 18650, etc.)
 
 🧱 **Estructura mecánica**
+
 Es el "cuerpo" del robot
 
 Incluye:
@@ -109,7 +110,7 @@ La robótica es una disciplina multidisciplinaria, combina varias áreas:
 |  | Diseño e impresión 3D: CAD, prototipado rápido, fabricación de piezas personalizadas |  |
 
 ## 6. Ejemplo de funcionamiento de un robot
-👉 Robot seguidor de línea:
+👉 **Robot seguidor de línea:**
 1. Sensores detectan la línea 
 2. Controlador interpreta la posición 
 3. Ajusta la velocidad de los motores 
