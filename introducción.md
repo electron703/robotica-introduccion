@@ -104,18 +104,21 @@ La robótica es una disciplina multidisciplinaria, combina varias áreas:
     2. Controlador interpreta la posición 
     3. Ajusta la velocidad de los motores 
     4. El robot corrige su trayectoria 
+    
 ## 7. Actividad sugerida (10–15 min)
 💡 Pregunta disparadora:
-    • ¿Qué diferencia hay entre sensor y actuador? 
-    • ¿Qué hace el controlador? 
-    • ¿Por qué es importante la mecánica en un robot?
-    • ¿Qué componentes serían necesitaríos para armar un robot para participar en una competencia de mini sumo? Tener en cuenta: 
-        ◦ Sensores 
-        ◦ Motores 
-        ◦ Controlador 
-        ◦ Estructura 
-        ◦ Limites físicos indicados en los reglamentos (dimensiones, peso).
+- ¿Qué diferencia hay entre sensor y actuador?
+- ¿Qué hace el controlador?
+- ¿Por qué es importante la mecánica en un robot?
+- ¿Qué componentes serían necesitaríos para armar un robot para participar en una competencia de mini sumo? Tener en cuenta:
+    - Sensores
+    - Motores
+    - Controlador
+    - Estructura
+    - Limites físicos indicados en los reglamentos (dimensiones, peso).
+    - 
 ## 8. 📌 Ideas clave:
-    • Un robot = sensores + control + acción 
-    • La robótica integra varias disciplinas 
-    • Las competencias son una forma práctica de aprender 
+- Un robot = sensores + control + acción
+- La robótica integra varias disciplinas
+- Las competencias son una forma práctica de aprender
+- 
