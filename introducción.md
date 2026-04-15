@@ -17,23 +17,27 @@ Un robot es una máquina capaz de percibir su entorno, procesar información y a
 
 ## 2. Robots de competición
 En el ámbito educativo, la robótica suele trabajarse a través de competencias, donde los robots deben cumplir objetivos específicos.
-⚔️ Robot Sumo
-    • Dos robots luchan dentro de un ring 
-    • Objetivo: empujar al oponente fuera del área 
-    • Requiere: fuerza, estrategia y sensores 
-🏁 Robot de Carreras (Seguidor de línea)
-    • Sigue una línea en el suelo 
-    • Gana el más rápido 
-    • Requiere: precisión y velocidad 
-⚽ Robot Fútbol
-    • Robots juegan en equipos 
-    • Deben detectar la pelota y el arco 
-    • Requiere: coordinación y control 
-🧠 Otros tipos
+
+⚔️ **Robot Sumo**
+- Dos robots luchan dentro de un ring
+- Objetivo: empujar al oponente fuera del área
+- Requiere: fuerza, estrategia y sensores
+  
+🏁 **Robot de Carreras (Seguidor de línea)**
+- Sigue una línea en el suelo 
+- Gana el más rápido 
+- Requiere: precisión y velocidad
+
+⚽ **Robot Fútbol**
+- Robots juegan en equipos 
+- Deben detectar la pelota y el arco 
+- Requiere: coordinación y control 
+
+🧠 **Otros tipos**
 - Laberinto (resolver caminos)
 - Mini desafíos de precisión 
 - Robots autónomos o controlados por radio (RC)
-- 
+ 
 ## 3. Diagrama de bloques de un robot
 
 Un robot se puede representar mediante el siguiente esquema:
@@ -54,24 +58,24 @@ Diagráma de bloques de un robot de carreras:
 
 ## 4. Partes principales de un robot
 
-🔍 Sensores (Entrada)
-Permiten que el robot "perciba"
-Ejemplos:
+🔍 **Sensores (Entrada)**
+
+Permiten que el robot "perciba". Ejemplos:
 - Sensores infrarrojos (IR)
 - Sensores ultrasónicos
 - Sensores de línea
 - Encoders (posición/velocidad)
 
-⚙️ Actuadores (Salida)
-Permiten que el robot "se mueva o actúe"
-Ejemplos:
+⚙️ **Actuadores (Salida)**
+
+Permiten que el robot "se mueva o actúe". Ejemplos:
 - Motores DC
 - Servomotores
 - Motores paso a paso
 
-🧠 Controlador
-Es el "cerebro" del robot
-Ejemplos:
+🧠 **Controlador**
+
+Es el "cerebro" del robot. Ejemplos:
 - Microcontroladores (Arduino, ESP32)
 - Placas de desarrollo
 
@@ -80,13 +84,14 @@ Funciones:
 - Ejecutar programas
 - Controlar motores
 
-🔋 Fuente de energía
-Alimenta todo el sistema
-Ejemplos:
+🔋 **Fuente de energía**
+
+Alimenta todo el sistema. Ejemplos:
 - Baterías (LiPo, 18650, etc.)
 
-🧱 Estructura mecánica
+🧱 **Estructura mecánica**
 Es el "cuerpo" del robot
+
 Incluye:
 - Chasis
 - Ruedas
