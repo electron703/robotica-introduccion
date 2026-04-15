@@ -58,35 +58,36 @@ Diagráma de bloques de un robot de carreras:
 🔍 Sensores (Entrada)
 Permiten que el robot "perciba"
 Ejemplos:
-    • Sensores infrarrojos (IR) 
-    • Sensores ultrasónicos 
-    • Sensores de línea 
-    • Encoders (posición/velocidad) 
+- Sensores infrarrojos (IR)
+- Sensores ultrasónicos
+- Sensores de línea
+- Encoders (posición/velocidad) 
 ⚙️ Actuadores (Salida)
 Permiten que el robot "se mueva o actúe"
 Ejemplos:
-    • Motores DC 
-    • Servomotores 
-    • Motores paso a paso 
+- Motores DC
+- Servomotores
+- Motores paso a paso 
 🧠 Controlador
 Es el "cerebro" del robot
 Ejemplos:
-    • Microcontroladores (Arduino, ESP32) 
-    • Placas de desarrollo 
+- Microcontroladores (Arduino, ESP32)
+- Placas de desarrollo 
 Funciones:
-    • Leer sensores 
-    • Ejecutar programas 
-    • Controlar motores 
+- Leer sensores
+- Ejecutar programas
+- Controlar motores 
 🔋 Fuente de energía
 Alimenta todo el sistema
 Ejemplos:
-    • Baterías (LiPo, 18650, etc.) 
+- Baterías (LiPo, 18650, etc.) 
 🧱 Estructura mecánica
 Es el "cuerpo" del robot
 Incluye:
-    • Chasis 
-    • Ruedas 
-    • Soportes 
+- Chasis
+- Ruedas
+- Soportes 
+    
 ## 5. Áreas que intervienen en la robótica
 La robótica es una disciplina multidisciplinaria, combina varias áreas:
 
