@@ -52,8 +52,6 @@ Explicación:
 Diagráma de bloques de un robot de carreras:
 <img width="985" height="786" alt="imagen" src="https://github.com/user-attachments/assets/d2ac9947-a93e-4da8-8704-b2ed6d11c4ea" />
 
-
-
 ## 4. Partes principales de un robot
 
 🔍 Sensores (Entrada)
@@ -63,25 +61,30 @@ Ejemplos:
 - Sensores ultrasónicos
 - Sensores de línea
 - Encoders (posición/velocidad)
+
 ⚙️ Actuadores (Salida)
 Permiten que el robot "se mueva o actúe"
 Ejemplos:
 - Motores DC
 - Servomotores
 - Motores paso a paso
+
 🧠 Controlador
 Es el "cerebro" del robot
 Ejemplos:
 - Microcontroladores (Arduino, ESP32)
 - Placas de desarrollo
+
 Funciones:
 - Leer sensores
 - Ejecutar programas
 - Controlar motores
+
 🔋 Fuente de energía
 Alimenta todo el sistema
 Ejemplos:
 - Baterías (LiPo, 18650, etc.)
+
 🧱 Estructura mecánica
 Es el "cuerpo" del robot
 Incluye:
@@ -123,4 +126,4 @@ La robótica es una disciplina multidisciplinaria, combina varias áreas:
 - Un robot = sensores + control + acción
 - La robótica integra varias disciplinas
 - Las competencias son una forma práctica de aprender
-- 
+
